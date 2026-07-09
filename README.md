@@ -33,13 +33,3 @@ The structure of the 4-week internship program is outlined below:
 | | Day 4 | Virtual Session | Project Submission |
 
 ---
-
-## 🎓 Completed Badges & Certifications
-
-All certificates earned during the course of the internship are saved in the [certificate](file:///d:/vaibhav%20gupta/Coding/Projects----Internship/IBM%20Skillbuild/certificate) folder:
-1. **IBM SkillsBuild Completion Certificate:** [View PDF](file:///d:/vaibhav%20gupta/Coding/Projects----Internship/IBM%20Skillbuild/certificate/Completion%20Certificate%20_%20SkillsBuild.pdf)
-2. **Getting Started with Cybersecurity:** [View PDF](file:///d:/vaibhav%20gupta/Coding/Projects----Internship/IBM%20Skillbuild/certificate/Getting%20Started%20with%20Cybersecurity.pdf)
-3. **Getting Started with AI:** [View PDF](file:///d:/vaibhav%20gupta/Coding/Projects----Internship/IBM%20Skillbuild/certificate/getting%20Started%20with%20AI.pdf)
-4. **Troubleshoot Your Code Using IBM Bob:** [View PDF](file:///d:/vaibhav%20gupta/Coding/Projects----Internship/IBM%20Skillbuild/certificate/Troubleshoot%20Your%20Code%20Using%20IBM%20Bob.pdf)
-
----
